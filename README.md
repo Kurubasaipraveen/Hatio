@@ -8,6 +8,11 @@ Features
 5. User-friendly UI with proper validation
 6. Responsive and works across different devices
 
+Demo Vercel:
+
+https://hatio-chi.vercel.app/
+
+
 Tech Stack
 Frontend: React.js, HTML, CSS
 State Management: useState, useEffect
@@ -16,7 +21,7 @@ Styling: CSS
 
  Installation & Setup
 
- git clone https://github.com/yourusername/currency-converter.git
+ git clone [https://github.com/yourusername/currency-converter.git]
 cd currency-converter
 npm install
 npm start
